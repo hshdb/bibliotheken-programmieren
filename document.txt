@@ -3,3 +3,19 @@
 - Brush up on Markdown: http://daringfireball.net/projects/markdown/basics
 - Learn about Penflip: [penflip.com/help](http://www.penflip.com/help)
 - Talk to a person: support@penflip.com
+
+
+## Sollten Bibliotheken progrommieren?
+
+### Bibliothek und programmieren passt das?
+
+Wenn man an programmieren denkt kommt einem mit Sicherheit nicht als erstes eine Bibliothek in den Sinn. Und doch programmieren genau diese. In erster Linie treiben große Einrichtungen diese Trend voran aber auch kleinere Bibliotheken beteiligen sich. 
+
+
+
+Rückblickend haben Bibliotheken stehts die Organisation ihrer Bestände und Informationsressourcen selbst in die Hand genommen. Erst in den vergangenen Jahren mit dem aufkommen neuer Technik überließen sie diese Kernkompetenz zunehmend Außenstehenden Anbietern. Dies war zwar bequem und die Bibliothekare konnten sich anderen Bereichen wie der Katalogisierung und Recherche widmen doch wurden sie darduch auch zunehmend abhäniger. Know-how mußte teuer eingekauft werden und besteht zum größten Teil aus fertigen Produkten die nur wenig oder keine anpassungen an die eigene Arbeit erlauben. Bei Problemen könne diese häufig nicht durch eigenes Personal behoben werden sondern ein Servicemitarbeiter wird beauftragt. Dies führt zu verzögerungen im Betriebsablauf. Dies ist besonders ärgerlich wenn durch das Problem Nutzer beeinträchtigt werden.
+Ein weiters Problem können die Datenformate der einzelnen Programme sein. Falls diese nicht aufeinander abgestimmt sei sollten kann dies leicht zu mehr Arbeit führen.
+Ist-Zustand
+
+Die Bibliotheken besinnen sich seit einigen Jahren zurück auf ihr ehemaliges Steckenpferd...
+Ausblick
