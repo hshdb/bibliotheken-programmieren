@@ -9,13 +9,25 @@
 
 ### Bibliothek und programmieren passt das?
 
-Wenn man an programmieren denkt kommt einem mit Sicherheit nicht als erstes eine Bibliothek in den Sinn. Und doch programmieren genau diese. In erster Linie treiben große Einrichtungen diese Trend voran aber auch kleinere Bibliotheken beteiligen sich. 
+Wenn man an programmieren denkt kommt einem mit Sicherheit nicht als erstes eine Bibliothek in den Sinn. Und doch programmieren genau diese. In erster Linie treiben große Einrichtungen diese Trend voran aber auch kleinere Bibliotheken beteiligen sich. Diese Entwicklung ist dabei durchaus auf die Geschichte der Bibliotheken zurück zu führen. Bibliotheken legten schon immer Wert darauf die vorhandenen Informationsressourcen selbst zu organisieren und zu präsentieren. In den Zeiten des Internets griffen sie allerdings vermehrt auf die verlockenden Angebote kommerzieller Anbieter wie Ebsco, OCLC oder ProQuest zurück. ![](https://oclc.org/content/dam/oclc/common/images/logos/new/OCLC/OCLC_Logo_H_Color_NoTag.png) 
+Dies war zwar bequemer und die Bibliothekare konnten sich vermeindlich wichtigeren Bereichen widmen doch wurden sie auch zunehmend abhäniger. Hinzu kam das der Auftritt der Bibliothek nicht mehr den veränderten Nutzeransprüchen entgegen kam. Die Nutzer erwarteten zunehmend Angebote des Web 2.0  zum Beispiel bei der Recherche im Katalog. Doch in welchen Bereichen kann selbst programmiertes heute eingesetzt werden?
+
+### Eigene Software schreiben
+
+Eigene Software zu schreiben bedeutet Einfluss nehmen zu können. Im Vorfeld sollte aber abgeklärt werden ob eine selbstentwicklung oder einen kommerzielle Lösung besser geeignet ist. Bei kommerzieller Software sollten folgende Punkte bedacht werden:
+- Kosten für die Anschaffung und Betrieb
+- wird die Software weiter Entwickelt
+- wer gehört zum Anwenderkreis
+- kann die Software angepasst werden
+- können bestehende Dienste eingebunden werden
+- gibt es Kapazitäten für eine Eigenentwicklung
+
+Es ist nicht unbedingt erforderlich die komplette Software selbst zu schreiben. Eine Möglichkeit ist vorhanden kommerzielle Software den eigenen Bedürfnissen anzupassen. Das Programm kann so auf die jeweilge Nutzergruppe zugeschnitten werden. Dies ist zum Beispiel sinnvoll bei der Navigation in den vielfältigen Informationsstrukturen. Wenn jeder Katalog und jede Datenbank eine anders aufgebaute Suchfunktion besitz kann dies schnell zu Frust auf Seiten der Nutzer führen. Ein gelungenes Beispiel für die zusammen Führung verschiedener Benutzeroberflächen ist die Homepage der Universität Köln und der Stadtbibliothek Köln. [Köln Homepage](https://www.ub.uni-koeln.de/) Hier wurden Benutzerkonten zusammen geführt, der Sucheinstieg vereinfacht und Web 2.0 Dienste integriert. Tipps zur aktuellen Recherche oder der Chatbot Albot helfen den Nutzern direkt weiter. 
 
 
 
-Rückblickend haben Bibliotheken stehts die Organisation ihrer Bestände und Informationsressourcen selbst in die Hand genommen. Erst in den vergangenen Jahren mit dem aufkommen neuer Technik überließen sie diese Kernkompetenz zunehmend Außenstehenden Anbietern. Dies war zwar bequem und die Bibliothekare konnten sich anderen Bereichen wie der Katalogisierung und Recherche widmen doch wurden sie darduch auch zunehmend abhäniger. Know-how mußte teuer eingekauft werden und besteht zum größten Teil aus fertigen Produkten die nur wenig oder keine anpassungen an die eigene Arbeit erlauben. Bei Problemen könne diese häufig nicht durch eigenes Personal behoben werden sondern ein Servicemitarbeiter wird beauftragt. Dies führt zu verzögerungen im Betriebsablauf. Dies ist besonders ärgerlich wenn durch das Problem Nutzer beeinträchtigt werden.
-Ein weiters Problem können die Datenformate der einzelnen Programme sein. Falls diese nicht aufeinander abgestimmt sei sollten kann dies leicht zu mehr Arbeit führen.
-Ist-Zustand
 
-Die Bibliotheken besinnen sich seit einigen Jahren zurück auf ihr ehemaliges Steckenpferd...
-Ausblick
+
+
+
+
