@@ -10,9 +10,22 @@
 ### Bibliothek und programmieren passt das?
 
 Wenn man an programmieren denkt kommt einem mit Sicherheit nicht als erstes eine Bibliothek in den Sinn. Und doch programmieren genau diese. In erster Linie treiben große Einrichtungen diese Trend voran aber auch kleinere Bibliotheken beteiligen sich. Diese Entwicklung ist dabei durchaus auf die Geschichte der Bibliotheken zurück zu führen. Bibliotheken legten schon immer Wert darauf die vorhandenen Informationsressourcen selbst zu organisieren und zu präsentieren. In den Zeiten des Internets griffen sie allerdings vermehrt auf die verlockenden Angebote kommerzieller Anbieter wie Ebsco, OCLC oder ProQuest zurück. ![](https://oclc.org/content/dam/oclc/common/images/logos/new/OCLC/OCLC_Logo_H_Color_NoTag.png) 
-Dies war zwar bequemer und die Bibliothekare konnten sich vermeindlich wichtigeren Bereichen widmen doch wurden sie auch zunehmend abhäniger. Hinzu kam das der Auftritt der Bibliothek nicht mehr den veränderten Nutzeransprüchen entgegen kam. Die Nutzer erwarteten zunehmend Angebote des Web 2.0  zum Beispiel bei der Recherche im Katalog. Doch in welchen Bereichen kann selbst programmiertes heute eingesetzt werden?
+Dies war zwar bequemer und die Bibliothekare konnten sich vermeindlich wichtigeren Bereichen widmen doch wurden sie auch zunehmend abhäniger. Hinzu kam das der Auftritt der Bibliothek nicht mehr den veränderten Nutzeransprüchen entgegen kam. Die Nutzer erwarteten zunehmend Angebote des Web 2.0  zum Beispiel bei der Recherche im Katalog. Bibliotheken haben heute in der Regel drei Mglichkeiten. Sie könne auf Produkte kommerzieller Anbieter zurückgreifen, fertige Produkte selbst weiter entwickeln und anpassen oder eine eigene Software schreiben die individuell abgestimmt ist. 
 
-### Eigene Software schreiben
+### Kommerzielle Software
+
+Je nach größe un Umfang der Software müssenvor der Entscheidung für eine komerzielle Lösung  folgende Punkte bedacht werden:
+- Kosten für die Anschaffung und Betrieb
+- wird die Software weiter Entwickelt
+- wer gehört zum Anwenderkreis
+- können bestehende Dienste eingebunden werden
+Besonder die hohen Anschaffungskosten stellen viele Bibliotheken die traditionell nach dem kamaralistischen System arbeiten vor große Probleme. 
+
+### Komerzielle Software die angepasst wir
+
+Vor der Anschaffung einer kommerziellen Software die angapsst werden soll sollte geklärt werden wie hoch der Aufwand für Anpassung und pflege ist. 
+
+### Selbst programmierte Software
 
 Eigene Software zu schreiben bedeutet Einfluss nehmen zu können. Im Vorfeld sollte aber abgeklärt werden ob eine selbstentwicklung oder einen kommerzielle Lösung besser geeignet ist. Bei kommerzieller Software sollten folgende Punkte bedacht werden:
 - Kosten für die Anschaffung und Betrieb
@@ -22,8 +35,9 @@ Eigene Software zu schreiben bedeutet Einfluss nehmen zu können. Im Vorfeld sol
 - können bestehende Dienste eingebunden werden
 - gibt es Kapazitäten für eine Eigenentwicklung
 
-Es ist nicht unbedingt erforderlich die komplette Software selbst zu schreiben. Eine Möglichkeit ist vorhanden kommerzielle Software den eigenen Bedürfnissen anzupassen. Das Programm kann so auf die jeweilge Nutzergruppe zugeschnitten werden. Dies ist zum Beispiel sinnvoll bei der Navigation in den vielfältigen Informationsstrukturen. Wenn jeder Katalog und jede Datenbank eine anders aufgebaute Suchfunktion besitz kann dies schnell zu Frust auf Seiten der Nutzer führen. Ein gelungenes Beispiel für die zusammen Führung verschiedener Benutzeroberflächen ist die Homepage der Universität Köln und der Stadtbibliothek Köln. [Köln Homepage](https://www.ub.uni-koeln.de/) Hier wurden Benutzerkonten zusammen geführt, der Sucheinstieg vereinfacht und Web 2.0 Dienste integriert. Tipps zur aktuellen Recherche oder der Chatbot Albot helfen den Nutzern direkt weiter. 
+Es ist nicht unbedingt erforderlich die komplette Software selbst zu schreiben. Eine Möglichkeit ist vorhanden kommerzielle Software den eigenen Bedürfnissen anzupassen. Das Programm kann so auf die jeweilge Nutzergruppe zugeschnitten werden. Dies ist zum Beispiel sinnvoll bei der Navigation in den vielfältigen Informationsstrukturen. Wenn jeder Katalog und jede Datenbank eine anders aufgebaute Suchfunktion besitz kann dies schnell zu Frust auf Seiten der Nutzer führen. Ein gelungenes Beispiel für die zusammen Führung verschiedener Benutzeroberflächen ist die Homepage der Universität Köln und der Stadtbibliothek Köln. [Köln Homepage](https://www.ub.uni-koeln.de/) Hier wurden Benutzerkonten zusammen geführt, der Sucheinstieg vereinfacht und Web 2.0 Dienste integriert. Tipps zur aktuellen Recherche oder der Chatbot Albot helfen den Nutzern direkt weiter. #
 
+ Doch in welchen Bereichen kann selbst programmiertes heute eingesetzt werden?
 
 
 
