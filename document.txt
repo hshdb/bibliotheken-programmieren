@@ -19,12 +19,19 @@ Je nach größe und Umfang der Software müssen vor der Entscheidung für eine k
 - wird die Software Weiterentwickelt
 - wer gehört zum Anwenderkreis
 - können bestehende Dienste eingebunden werden
+
 Besonder die hohen Anschaffungskosten stellen viele Bibliotheken die traditionell nach dem kamaralistischen System arbeiten vor große Probleme. 
 
-### Komerzielle Software die angepasst wir
+### Komerzielle oder Open-Source-Softwareanwendungen die angepasst werden
 
-Es ist nicht unbedingt erforderlich die komplette Software selbst zu schreiben. Eine Möglichkeit ist vorhanden kommerzielle Software den eigenen Bedürfnissen anzupassen. Das Programm kann so auf die jeweilge Nutzergruppe zugeschnitten werden. Dies ist zum Beispiel sinnvoll bei der Navigation in den vielfältigen Informationsstrukturen. Wenn jeder Katalog und jede Datenbank eine anders aufgebaute Suchfunktion besitz kann dies schnell zu Frust auf Seiten der Nutzer führen. Ein gelungenes Beispiel für die zusammen Führung verschiedener Benutzeroberflächen ist die Homepage der Universität Köln und der Stadtbibliothek Köln. [Köln Homepage](https://www.ub.uni-koeln.de/) Hier wurden Benutzerkonten zusammen geführt, der Sucheinstieg vereinfacht und Web 2.0 Dienste integriert. Tipps zur aktuellen Recherche oder der Chatbot Albot helfen den Nutzern direkt weiter.
-Vor der Anschaffung einer kommerziellen Software die angapsst werden soll sollte geklärt werden wie hoch der Aufwand für Anpassung und pflege ist.In welcher Sprache wurde die Software programmiert? Gibt es Personal  das die nötigen Anpassungen realisieren kann? Ein weiterer Punkt ist der mehr Auhfwand. Die Mitarbeiter müssen nicht nur geschult werden sondern gegeben falls auch mit der Programmiersprache vertraut gemacht werden.  
+Es ist nicht unbedingt erforderlich die komplette Software selbst zu schreiben. Eine Möglichkeit ist vorhanden kommerzielle oder Open-Source -Software den eigenen Bedürfnissen anzupassen. Das Programm kann so auf die jeweilge Nutzergruppe zugeschnitten werden. Dies ist zum Beispiel sinnvoll bei der Navigation in den vielfältigen Informationsstrukturen. Wenn jeder Katalog und jede Datenbank eine anders aufgebaute Suchfunktion besitz kann dies schnell zu Frust auf Seiten der Nutzer führen. Ein gelungenes Beispiel für die zusammen Führung verschiedener Benutzeroberflächen ist die Homepage der Universität Köln und der Stadtbibliothek Köln. [Köln Homepage](https://www.ub.uni-koeln.de/) Hier wurden Benutzerkonten zusammen geführt, der Sucheinstieg vereinfacht und Web 2.0 Dienste integriert. Tipps zur aktuellen Recherche oder der Chatbot Albot helfen den Nutzern direkt weiter.
+
+####VuFind
+
+Eine weiter gelungen Anpassung ist die Suchoberfläche beluga [beluga](http://beluga.sub.uni-hamburg.de/vufind/). beluga basiert auf der Open-Source-Software VuFind das an der Falvey Memorial Library in den USA entwickelt wurde.![](http://t2.gstatic.com/images?q=tbn:ANd9GcQnMi2KDCv-mOSRtHjIDYRJkVHuX_TBWOOO-3fC_9OmY88UcwGZh4ZUFcDC) Die Suchoberfläche bei VuFind ähnelt der von Google. Die Treffer werden nach Relevanz sortiert. Eine Tefferliste zeigt zusätzlich an in welchen Verzeichnissen etwas gefunden wurde. Bei der Eingabe schlägt VuFind weiter Facetten des Suchbegriffes vor. Auch diese Funktion erinnert stark an Google. VuFind kann zusätzlich zu den  Bibliotheksbeständen mit Wikipedia Einträgen oder Repositories angereichert werden.
+VuFind selbst ist mit PHP programmiert. Als Suchmaschien verwendet VuFind Solr Energy. Besonders interessant für Bibliotheken sind die Permalinks für Katalogisate die VuFind unterstüzt.
+
+Vor der Anschaffung einer Software die angapsst werden soll, sollte geklärt werden wie hoch der Aufwand für Anpassung und pflege ist. In welcher Sprache wurde die Software programmiert? Gibt es Personal  das die nötigen Anpassungen realisieren kann? Ein weiterer Punkt ist der mehr Auhfwand. Die Mitarbeiter müssen nicht nur geschult werden sondern gegeben falls auch mit der Programmiersprache vertraut gemacht werden. 
 
 ### Selbst programmierte Software
 
@@ -34,6 +41,8 @@ Eigene Software zu schreiben bedeutet Einfluss nehmen zu können. Es bedeutet al
 - Bestimmung von Administratoren
 - was wird die Entwicklung am Ende kosten
 - haben andere schon Erfahrungen gesammelt in dieser Richtung
+
+
 
  Doch in welchen Bereichen kann selbst programmiertes heute eingesetzt werden?
 
