@@ -29,13 +29,15 @@ Dabei ist es nicht unbedingt erforderlich die komplette Software selbst zu entwi
 
 Bei der Programmierung eigener Software sollten daher folgendes bedacht werden:
 - was soll die Software leisten
-- wer verfügt über das nötige know how um die Software zu entwerfen
+- wer verfügt über das nötige Know-how um die Software zu entwerfen
 - Bestimmung von Administratoren
 - was wird die Entwicklung am Ende kosten
 - haben andere schon Erfahrungen gesammelt in dieser Richtung
 - wer sind die späteren Nutzer
 - gibt es eine Open-Source-Software die als Basis genutzt werden kann
 - mit welcher Programmiersprache soll die Software realisiert werden
+
+Besonder die Frage nach den späteren Nutzern ist sehr wichtig. Jede Fachcommunity hat ihre eigenen Besonderheiten. Nicht jede Vorliebe kann ggf. berücksichtigt werden.
 
 ####Katalog Köln
 
