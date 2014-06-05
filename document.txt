@@ -1,16 +1,14 @@
 
 
-- Brush up on Markdown: http://daringfireball.net/projects/markdown/basics
-- Learn about Penflip: [penflip.com/help](http://www.penflip.com/help)
-
 
 
 ## Sollten Bibliotheken programmieren?
 
 ### Bibliothek und programmieren passt das?
 
-Wenn man an programmieren denkt, kommt einem mit Sicherheit nicht als erstes eine Bibliothek in den Sinn, und doch programmieren genau diese. In erster Linie treiben große Einrichtungen diesen Trend voran, aber auch kleinere Bibliotheken beteiligen sich. Diese Entwicklung ist dabei durchaus auf die Geschichte der Bibliotheken zurück zu führen. Bibliotheken legten schon immer Wert darauf die vorhandenen Informationsressourcen selbst zu organisieren und zu präsentieren. In den Zeiten des Internets greifen sie allerdings vermehrt auf die verlockenden Angebote kommerzieller Anbieter wie Ebsco, OCLC oder ProQuest zurück. ![](https://oclc.org/content/dam/oclc/common/images/logos/new/OCLC/OCLC_Logo_H_Color_NoTag.png) 
-Dies ist zwar bequemer und die Bibliothekare können sich vermeintlich wichtigeren Bereichen widmen, doch werden sie auch zunehmend abhängiger. Hinzu kommt, dass der Auftritt der Bibliothek nicht mehr den veränderten Nutzeransprüchen entgegen kommt. Die Nutzer erwarten zunehmend Angebote des Web 2.0  zum Beispiel bei der Recherche im Katalog.
+Wenn man an programmieren denkt, kommt einem mit Sicherheit nicht als erstes eine Bibliothek in den Sinn, und doch programmieren genau diese. In erster Linie treiben große Einrichtungen diesen Trend voran, aber auch kleinere Bibliotheken beteiligen sich. Diese Entwicklung ist dabei durchaus auf die Geschichte der Bibliotheken zurück zu führen. Bibliotheken legten schon immer Wert darauf die vorhandenen Informationsressourcen selbst zu organisieren und zu präsentieren. [Christensen.2010] In den Zeiten des Internets greifen sie allerdings vermehrt auf die verlockenden Angebote kommerzieller Anbieter wie Ebsco, OCLC oder ProQuest zurück.
+![](https://oclc.org/content/dam/oclc/common/images/logos/new/OCLC/OCLC_Logo_H_Color_NoTag.png) 
+Dies ist zwar bequemer und die Bibliothekare können sich vermeintlich wichtigeren Bereichen widmen, doch werden sie auch zunehmend abhängiger. Hinzu kommt, dass der Auftritt der Bibliothek nicht mehr den veränderten Nutzeransprüchen entgegen kommt. Die Nutzer erwarten zunehmend Angebote des Web 2.0  zum Beispiel bei der Recherche im Katalog.[beluga]
 Bibliotheken haben heute in der Regel drei Möglichkeiten. Sie könne auf Produkte kommerzieller Anbieter zurückgreifen, fertige Produkte selbst weiter entwickeln und anpassen oder eine eigene Software schreiben, die individuell abgestimmt ist.
 
 
@@ -20,14 +18,14 @@ Für die Anschaffung einer kommerziellen Lösung spricht, dass Personal und dami
 - Kosten für die Anschaffung und Betrieb
 - wird die Software Weiterentwickelt
 - wer gehört zum Anwenderkreis
-- können bestehende Dienste eingebunden werden
+- können bestehende Dienste eingebunden werden [Kostadt.2010]
 
 Insbesondere die hohen Anschaffungskosten stellen viele Bibliotheken die traditionell nach dem kamaralistischen System arbeiten vor große Probleme. 
 
 ### Open-Source-Software Anwendungen
 
-Open-Source-Software hört sich erst einmal gut an schreckt aber noch immer Anwender ab die lieber auf eine kommerzielle Software zurückgreifen auch wenn diese schlechter oder gar nicht kompatibel ist. Dabei kann durch das schreiben eigene Software Einfluss auf die Entwicklung genommen werden. Das sie zurück schrecken kann unterschiedliche Gründe haben. Bei Fehlfunktionen oder Ausfällen muss nicht das eigene Personal das Problem beheben. Dies ist besonders dann schwierig wenn nur wenige Mitarbeiter über die notwenigen Kenntnisse verfügen mit der Software zu arbeiten. In solchen Fällen ist eine gute Dokumentation sehr wichtig. Nur dadurch können sich ggf. andere in die Software einarbeiten. Auch können die Angst vor Rückschlägen und der damit verbundene Mehraufwand abschreckend wirken. In Zeiten knapper Kassen wird dann lieber auf eine kommerzielle Lösung zurückgegriffen als Zeit und Geld in eine Entwicklung bzw. eine Anpassung zu investieren. 
-Dabei ist es nicht unbedingt erforderlich die komplette Software selbst zu entwickeln. Eine Möglichkeit ist vorhandene kommerzielle oder Open-Source-Software den eigenen Bedürfnissen anzupassen. Es bedeutet allerdings auch, dass man mit Rückschlägen rechnen muss. Nicht alles klappt auf Anhieb und einiges lässt sich vielleicht nicht realisieren. Die so entstehende Software kann individuell auf die jeweilige Nutzergruppe zugeschnitten werden. Dies ist zum Beispiel sinnvoll bei der Navigation in den vielfältigen Informationsstrukturen. Wenn jeder Katalog und jede Datenbank eine anders aufgebaute Suchfunktion besitz kann dies schnell zu Frust auf Seiten der Nutzer führen. Besonders in Zeiten in denen zunehmend Online mit Datenbanken, e-Journals oder e-Books gearbeitet. Alle Anpassungen sollten daher stets auf die Nutzer ausgerichtet sein. Software die an den Nutzern vorbei entwickelt wird verschwindet schnell in der Bedeutungslosigkeit.
+Open-Source-Software hört sich erst einmal gut an schreckt aber noch immer Anwender ab die lieber auf eine kommerzielle Software zurückgreifen auch wenn diese schlechter oder gar nicht kompatibel ist. Dabei kann durch das schreiben eigene Software Einfluss auf die Entwicklung genommen werden.[Chudnov.2014] Das sie zurück schrecken kann unterschiedliche Gründe haben. Bei Fehlfunktionen oder Ausfällen muss nicht das eigene Personal das Problem beheben. Dies ist besonders dann schwierig wenn nur wenige Mitarbeiter über die notwenigen Kenntnisse verfügen mit der Software zu arbeiten. In solchen Fällen ist eine gute Dokumentation sehr wichtig. Nur dadurch können sich ggf. andere in die Software einarbeiten. Auch können die Angst vor Rückschlägen und der damit verbundene Mehraufwand abschreckend wirken. In Zeiten knapper Kassen wird dann lieber auf eine kommerzielle Lösung zurückgegriffen als Zeit und Geld in eine Entwicklung bzw. eine Anpassung zu investieren. 
+Dabei ist es nicht unbedingt erforderlich die komplette Software selbst zu entwickeln. Eine Möglichkeit ist vorhandene kommerzielle oder Open-Source-Software den eigenen Bedürfnissen anzupassen. Es bedeutet allerdings auch, dass man mit Rückschlägen rechnen muss. Nicht alles klappt auf Anhieb und einiges lässt sich vielleicht nicht realisieren. Die so entstehende Software kann individuell auf die jeweilige Nutzergruppe zugeschnitten werden. Dies ist zum Beispiel sinnvoll bei der Navigation in den vielfältigen Informationsstrukturen. Wenn jeder Katalog und jede Datenbank eine anders aufgebaute Suchfunktion besitz kann dies schnell zu Frust auf Seiten der Nutzer führen. Besonders in Zeiten in denen zunehmend Online mit Datenbanken, e-Journals oder e-Books gearbeitet.[Droler.2012] In dem Punkt das alle Anpassungen stets auf die Nutzer ausgerichtet sein sollen, sind sich die Experten einig. Software die an den Nutzern vorbei entwickelt wird verschwindet schnell in der Bedeutungslosigkeit.[Christensen.2010]
 
 Bei der Programmierung eigener Software sollten daher folgendes bedacht werden:
 - was soll die Software leisten
@@ -51,8 +49,8 @@ VuFind war eine der ersten Open Discovery Interfaces das unter der General Publi
 
 ###Fazit
 
-Bibliotheken sollten sich ihrer Rolle bewusst werden und ihre Informationsdienste wieder selbst gestalten. Die meisten wissen heute nicht mehr, dass viele der heutigen Bibliothekssysteme früher Eigenbauten der Bibliotheken waren. Hinzu kommt das die Nachfrage nach elektronischen Medien steigt. Die Nutzer erwarten eine Oberfläche die ihnen vertraut ist wie zB. bei Google oder Amazon. Titel sollen nicht nur als reiner Text in der Trefferliste erscheinen sondern zusätzlich Informationen wie Bildern oder Inhaltsverzeichnissen bieten. Die Nutzer überfliegen den Inhalt nur und entscheiden sich häufig nicht für die beste Lösung in den Augen der Bibliothekare. Schlecht konzipierte Systeme verleiten daher schnell dazu sich irgendwie durch zu wurschteln bis zum vermeintlich richtigen Ergebnis. Try and error ist dann die Devise. 
-Software zu schreiben heißt Einfluss zu nehmen.
+Bibliotheken sollten sich ihrer Rolle bewusst werden und ihre Informationsdienste wieder selbst gestalten. Die meisten wissen heute nicht mehr, dass viele der heutigen Bibliothekssysteme früher Eigenbauten der Bibliotheken waren.[Christensen.2010] Hinzu kommt das die Nachfrage nach elektronischen Medien steigt. Die Nutzer erwarten eine Oberfläche die ihnen vertraut ist wie zB. bei Google oder Amazon.[Baron.1999] Titel sollen nicht nur als reiner Text in der Trefferliste erscheinen sondern zusätzlich Informationen wie Bildern oder Inhaltsverzeichnissen bieten. Die Nutzer überfliegen den Inhalt nur und entscheiden sich häufig nicht für die beste Lösung in den Augen der Bibliothekare. Schlecht konzipierte Systeme verleiten daher schnell dazu sich irgendwie durch zu wurschteln bis zum vermeintlich richtigen Ergebnis.[Christensen.2010] Try and error ist dann die Devise. Software zu schreiben heißt Einfluss zu nehmen. [Chudnov.2014]
+
  
 
 
